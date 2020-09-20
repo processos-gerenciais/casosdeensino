@@ -4,13 +4,12 @@ Repositório de casos de ensino destinados a práticas formativas e de atualizac
 
 # Sobre
 
-Esta ferramenta educacional visa unicamente encorajar o ensino orientado para a prática de BPM através de uma seleção única de documentos e recursos. 
+Esta ferramenta visa unicamente encorajar o ensino orientado para a prática de BPM através de uma seleção única de documentos e recursos. 
 
-# Casos
-
-Caso #1 - iMail: Desafios Gerenciais em uma Startup
+# Caso #1 - iMail: Desafios Gerenciais em uma Startup
 Tópicos em gestão: Recursos Humanos > Comunicação e departamentalização; Gestão de Custos e Precos > Custeio ABC.
 Principais Processos (APQC/PCF v. 7.2.1): 7.3.2	Manage employee performance e 9.1.3	Perform cost management.
+Notação: BPMN™ v.2.0
 
 # Como referenciar os casos (ABNT NBR 6023:2018):
 
